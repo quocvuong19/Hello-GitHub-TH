@@ -1,0 +1,13 @@
+# File chua thong tin dang nhap va cau hinh bi mat
+.env
+*.env
+password.txt
+secrets/
+
+# Khoa rieng tu
+*.pem
+*.key
+
+# File tam
+*.log
+*.tmp
