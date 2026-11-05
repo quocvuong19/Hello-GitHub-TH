@@ -11,3 +11,4 @@ secrets/
 # File tam
 *.log
 *.tmp
+password.txt
