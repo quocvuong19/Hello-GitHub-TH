@@ -3,6 +3,7 @@
 *.env
 password.txt
 pass1.txt
+pravite.txt
 secrets/
 
 # Khoa rieng tu
