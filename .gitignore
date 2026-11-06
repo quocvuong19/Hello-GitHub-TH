@@ -2,6 +2,7 @@
 .env
 *.env
 password.txt
+pass1.txt
 secrets/
 
 # Khoa rieng tu
